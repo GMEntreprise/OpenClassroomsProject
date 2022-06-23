@@ -12,3 +12,15 @@ h2 {
   width: 300px;
   background-color: blueviolet;
 }
+.git h1 {
+  color: blue;
+}
+
+.git {
+  background-color: aquamarine;
+  height: 400px;
+  width: 600px;
+}
+p {
+  color: rgb(38, 145, 188);
+}
