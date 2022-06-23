@@ -28,3 +28,8 @@ h2 {
   color: bisque;
   font-size: 2em;
 }
+.git h3 {
+  color: blue;
+  padding: 10px;
+  background-color: yellow;
+}
